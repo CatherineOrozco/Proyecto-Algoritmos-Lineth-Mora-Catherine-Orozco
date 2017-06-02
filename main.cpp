@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     lista.insertIntoHead('a');
     lista.insertIntoHead('b');
     lista.insertIntoHead('c');
-    lista.print();
+    lista.printList();
     
 
     return 0;
