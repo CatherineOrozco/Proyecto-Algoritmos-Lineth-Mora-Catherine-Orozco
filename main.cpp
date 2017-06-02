@@ -20,12 +20,12 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     
-    ListaCircular listaDrama;
-    ListaCircular listaComedy;
-    ListaCircular listaChildish;
-    ListaCircular listaAction;
-    ListaCircular listaRomance;
-    ListaCircular listaFiction; 
+    ListaCircular lista;
+    lista.insertIntoHead('a');
+    lista.insertIntoHead('b');
+    lista.insertIntoHead('c');
+    lista.print();
+    
 
     return 0;
 }
