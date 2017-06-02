@@ -19,6 +19,13 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
+    
+    ListaCircular listaDrama;
+    ListaCircular listaComedy;
+    ListaCircular listaChildish;
+    ListaCircular listaAction;
+    ListaCircular listaRomance;
+    ListaCircular listaFiction; 
 
     return 0;
 }
